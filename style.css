@@ -1,0 +1,15 @@
+*{
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+.campeon_seleccionado{
+    display: flex;
+    align-items: start;
+    gap: 80px;
+}
